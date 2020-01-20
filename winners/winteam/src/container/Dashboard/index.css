@@ -1,0 +1,23 @@
+.tableStyle{
+    height: 100%;
+    width: 100%;
+    align-self: center;
+}
+.checkboxStyle{
+    width: '2%';
+    position: relative;
+}
+.container {
+    padding: 2rem 0rem;
+  }
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+  
+  
+  .profiles{
+    width: 50%;
+    height: auto;
+    display: block;
+}
